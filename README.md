@@ -30,9 +30,13 @@ software architecture, security and maintainable code.
 - CI/CD
 - Infrastructure
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasNOFCs&theme=github_dark)
+
 ## Development Workflow
 
 I use a branch-based workflow for development:
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasNOFCs&theme=github_dark)
 
 `feature/fix/refactor/hotfix → Pull Request → Review → Merge`
 
