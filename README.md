@@ -30,9 +30,12 @@ software architecture, security and maintainable code.
 - CI/CD
 - Infrastructure
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasNOFCs&theme=github_dark)
+## GitHub Statistics
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasNOFCs&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasNOFCs&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasNOFCs&theme=github_dark" />
+</p>
 
 ## Goals
 
